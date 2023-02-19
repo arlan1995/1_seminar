@@ -1,0 +1,15 @@
+C:\Users\ARLAN\Desktop\IT\лекции\Знакомство с языками программирования\Урок 1. Знакомство с языком программирования C#\1_seminar\1_domawka\bin\Debug\net6.0\1_domawka.exe
+C:\Users\ARLAN\Desktop\IT\лекции\Знакомство с языками программирования\Урок 1. Знакомство с языком программирования C#\1_seminar\1_domawka\bin\Debug\net6.0\1_domawka.deps.json
+C:\Users\ARLAN\Desktop\IT\лекции\Знакомство с языками программирования\Урок 1. Знакомство с языком программирования C#\1_seminar\1_domawka\bin\Debug\net6.0\1_domawka.runtimeconfig.json
+C:\Users\ARLAN\Desktop\IT\лекции\Знакомство с языками программирования\Урок 1. Знакомство с языком программирования C#\1_seminar\1_domawka\bin\Debug\net6.0\1_domawka.dll
+C:\Users\ARLAN\Desktop\IT\лекции\Знакомство с языками программирования\Урок 1. Знакомство с языком программирования C#\1_seminar\1_domawka\bin\Debug\net6.0\1_domawka.pdb
+C:\Users\ARLAN\Desktop\IT\лекции\Знакомство с языками программирования\Урок 1. Знакомство с языком программирования C#\1_seminar\1_domawka\obj\Debug\net6.0\1_domawka.csproj.AssemblyReference.cache
+C:\Users\ARLAN\Desktop\IT\лекции\Знакомство с языками программирования\Урок 1. Знакомство с языком программирования C#\1_seminar\1_domawka\obj\Debug\net6.0\1_domawka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARLAN\Desktop\IT\лекции\Знакомство с языками программирования\Урок 1. Знакомство с языком программирования C#\1_seminar\1_domawka\obj\Debug\net6.0\1_domawka.AssemblyInfoInputs.cache
+C:\Users\ARLAN\Desktop\IT\лекции\Знакомство с языками программирования\Урок 1. Знакомство с языком программирования C#\1_seminar\1_domawka\obj\Debug\net6.0\1_domawka.AssemblyInfo.cs
+C:\Users\ARLAN\Desktop\IT\лекции\Знакомство с языками программирования\Урок 1. Знакомство с языком программирования C#\1_seminar\1_domawka\obj\Debug\net6.0\1_domawka.csproj.CoreCompileInputs.cache
+C:\Users\ARLAN\Desktop\IT\лекции\Знакомство с языками программирования\Урок 1. Знакомство с языком программирования C#\1_seminar\1_domawka\obj\Debug\net6.0\1_domawka.dll
+C:\Users\ARLAN\Desktop\IT\лекции\Знакомство с языками программирования\Урок 1. Знакомство с языком программирования C#\1_seminar\1_domawka\obj\Debug\net6.0\refint\1_domawka.dll
+C:\Users\ARLAN\Desktop\IT\лекции\Знакомство с языками программирования\Урок 1. Знакомство с языком программирования C#\1_seminar\1_domawka\obj\Debug\net6.0\1_domawka.pdb
+C:\Users\ARLAN\Desktop\IT\лекции\Знакомство с языками программирования\Урок 1. Знакомство с языком программирования C#\1_seminar\1_domawka\obj\Debug\net6.0\1_domawka.genruntimeconfig.cache
+C:\Users\ARLAN\Desktop\IT\лекции\Знакомство с языками программирования\Урок 1. Знакомство с языком программирования C#\1_seminar\1_domawka\obj\Debug\net6.0\ref\1_domawka.dll
