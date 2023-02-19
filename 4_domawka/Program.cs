@@ -5,7 +5,7 @@
         int index;
         
         index = 1;
-        while (index < n)
+        while (index <= n)
         {
             if (index % 2 == 0)
             {
